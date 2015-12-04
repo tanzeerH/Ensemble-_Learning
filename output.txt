@@ -1,0 +1,62 @@
+Number of rounds:  30 decession tree: 1 accuracy: 91.75824175824172 %
+Number of rounds:  30 decession tree: 2 accuracy: 94.78376580172994 %
+Number of rounds:  30 decession tree: 3 accuracy: 79.84610226109834 %
+Number of rounds:  30 decession tree: 4 accuracy: 93.44151014258011 %
+Number of rounds:  30 decession tree: 5 accuracy: 94.03906594970212 %
+Number of rounds:  30 decession tree: 6 accuracy: 91.89836168403399 %
+Number of rounds:  30 decession tree: 7 accuracy: 76.74138986196064 %
+Total accuracy: 97.08029197080292 %
+
+
+Number of rounds:  25 decession tree: 1 accuracy: 92.30769230769228 %
+Number of rounds:  25 decession tree: 2 accuracy: 94.24603174603172 %
+Number of rounds:  25 decession tree: 3 accuracy: 87.76725018491788 %
+Number of rounds:  25 decession tree: 4 accuracy: 87.3015502238194 %
+Number of rounds:  25 decession tree: 5 accuracy: 82.91447052621423 %
+Number of rounds:  25 decession tree: 6 accuracy: 93.8318298570228 %
+Total accuracy: 98.54014598540147 %
+
+
+Number of rounds:  20 decession tree: 1 accuracy: 92.49084249084247 %
+Number of rounds:  20 decession tree: 2 accuracy: 84.96015455204056 %
+Number of rounds:  20 decession tree: 3 accuracy: 88.8822459108706 %
+Number of rounds:  20 decession tree: 4 accuracy: 96.11192296364017 %
+Number of rounds:  20 decession tree: 5 accuracy: 81.30590196277437 %
+Total accuracy: 98.54014598540147 %
+
+
+Number of rounds:  15 decession tree: 1 accuracy: 93.40659340659339 %
+Number of rounds:  15 decession tree: 2 accuracy: 85.9803921568627 %
+Number of rounds:  15 decession tree: 3 accuracy: 94.257648870195 %
+Number of rounds:  15 decession tree: 4 accuracy: 96.97572145534824 %
+Number of rounds:  15 decession tree: 5 accuracy: 92.87994848579258 %
+Number of rounds:  15 decession tree: 6 accuracy: 97.54926247080009 %
+Number of rounds:  15 decession tree: 7 accuracy: 78.81587947285651 %
+Number of rounds:  15 decession tree: 8 accuracy: 59.14624300907106 %
+Number of rounds:  15 decession tree: 9 accuracy: 91.38483681850744 %
+Number of rounds:  15 decession tree: 10 accuracy: 58.76329429467235 %
+Number of rounds:  15 decession tree: 11 accuracy: 62.05787978721865 %
+Total accuracy: 98.54014598540147 %
+
+
+Number of rounds:  10 decession tree: 1 accuracy: 94.13919413919412 %
+Number of rounds:  10 decession tree: 2 accuracy: 83.62110894941627 %
+Number of rounds:  10 decession tree: 3 accuracy: 92.94461587940876 %
+Number of rounds:  10 decession tree: 4 accuracy: 81.38749708033046 %
+Number of rounds:  10 decession tree: 5 accuracy: 88.7678998405649 %
+Number of rounds:  10 decession tree: 6 accuracy: 96.36242757707956 %
+Number of rounds:  10 decession tree: 7 accuracy: 90.0036584451779 %
+Number of rounds:  10 decession tree: 8 accuracy: 73.32030783413461 %
+Number of rounds:  10 decession tree: 9 accuracy: 54.37633145905223 %
+Number of rounds:  10 decession tree: 10 accuracy: 64.39795353326858 %
+Total accuracy: 98.54014598540147 %
+
+
+Number of rounds:  5 decession tree: 1 accuracy: 92.67399267399264 %
+Number of rounds:  5 decession tree: 2 accuracy: 87.23320158102771 %
+Number of rounds:  5 decession tree: 3 accuracy: 95.92041376398561 %
+Number of rounds:  5 decession tree: 4 accuracy: 83.04135719907738 %
+Number of rounds:  5 decession tree: 5 accuracy: 98.30128288450015 %
+Total accuracy: 96.35036496350365 %
+
+
